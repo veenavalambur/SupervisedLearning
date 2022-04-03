@@ -6,8 +6,20 @@ Buying and selling used smartphones used to be something that happened on a hand
 
 Refurbished and used devices continue to provide cost-effective alternatives to both consumers and businesses that are looking to save money when purchasing a smartphone. There are plenty of other benefits associated with the used smartphone market. Used and refurbished devices can be sold with warranties and can also be insured with proof of purchase. Third-party vendors/platforms, such as Verizon, Amazon, etc., provide attractive offers to customers for refurbished smartphones. Maximizing the longevity of mobile phones through second-hand trade also reduces their environmental impact and helps in recycling and reducing waste. The impact of the COVID-19 outbreak may further boost the cheaper refurbished smartphone segment, as consumers cut back on discretionary spending and buy phones only for immediate needs.
 
-# Exploratory Data Analysis
+## Files
+Dataset: used_phone_data_new.csv
+Python Program: Recell Project.ipynb
+Project Presentation: Recell Project Presentation Veena Valambur.pdf
 
-# Multiple Linear Regression Model
-
-# Statistical Model Creation
+## Methods and Packages Used
+### Exploratory Data Analysis
+### Multiple Linear Regression Model
+### Statistical Model Creation
+#### numpy
+#### pandas
+#### matplotlib.pyplot
+#### seaborn
+#### sklearn.model_selection
+#### sklearn.linear_model
+#### sklearn.metrics
+#### statsmodels.api
